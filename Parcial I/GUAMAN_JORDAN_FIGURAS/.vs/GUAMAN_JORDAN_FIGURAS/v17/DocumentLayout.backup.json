@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|c:\\users\\alexander guaman\\desktop\\grafica\\parcial i\\guaman_jordan_figuras\\guaman_jordan_figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|c:\\users\\alexander guaman\\desktop\\grafica\\parcial i\\guaman_jordan_figuras\\guaman_jordan_figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|c:\\users\\alexander guaman\\desktop\\grafica\\parcial i\\guaman_jordan_figuras\\guaman_jordan_figuras\\frmirregulartrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmirregulartrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmirregulartrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmirregulartrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\cirregulartrapezoid .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\cirregulartrapezoid .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\cisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\cisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\ckite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\ckite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\chexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\chexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\cheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\cheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\cellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\cellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\cdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\cdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\ccircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\ccircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmkite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmkite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmkite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmkite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmnonagon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmnonagon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmnonagon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmnonagon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\guaman_jordan_figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDB2C54F-A46E-4C36-AA59-5C9A1DCB9BA2}|GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS.csproj|solutionrelative:guaman_jordan_figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHome.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmHome.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmHome.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmHome.cs*",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmHome.cs*",
+              "ViewState": "AgIAANkAAAAAAAAAAAAwwPYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:52:15.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmHome.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmHome.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmHome.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmHome.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:52:14.301Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CIsoscelesTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CIsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CIsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CIsoscelesTrapezoid.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CIsoscelesTrapezoid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:27:43.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CIrregularTrapezoid .cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CIrregularTrapezoid .cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CIrregularTrapezoid .cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CIrregularTrapezoid .cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CIrregularTrapezoid .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:56.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmIrregularTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:27:31.996Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmIrregularTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmIrregularTrapezoid.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:27:36.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CKite.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CKite.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CKite.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CKite.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CKite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:27:47.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CHexagon.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CHexagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CHexagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CHexagon.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CHexagon.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CHeptagon.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CHeptagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CHeptagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CHeptagon.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CHeptagon.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:53.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CEllipse.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CEllipse.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CEllipse.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CEllipse.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CEllipse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBDwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:50.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CDecagon.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CDecagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CDecagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CDecagon.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CDecagon.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:49.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CCircle.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CCircle.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\CCircle.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\CCircle.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\CCircle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:26:43.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmKite.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmKite.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmKite.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmKite.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmKite.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAA8wLsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:24:32.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmKite.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmKite.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmKite.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmKite.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmKite.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:24:30.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmIsoscelesTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAwwLgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:23:26.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmOctagon.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA8wIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:54:58.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmTriangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:03:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmNonagon .cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:54:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmIsoscelesTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmIsoscelesTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:23:24.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmTriangle.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:03:45.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmOval.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOval.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmOval.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOval.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmOval.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:55:41.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmOval.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOval.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmOval.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOval.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmOval.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:55:43.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmOctagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmOctagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:54:56.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmNonagon .cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmNonagon .cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:54:24.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCircle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmCircle.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmCircle.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmCircle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmCircle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:54:04.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:02:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmDecagon.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:14:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmTrapezoid.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:02:48.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmDecagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmDecagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:14:30.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmSquare.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmSquare.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmSquare.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmSquare.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmSquare.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:02:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmSquare.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmSquare.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmSquare.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmSquare.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmSquare.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:02:13.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmRhombus.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:01:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmRhombus.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmRhombus.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:01:32.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmRhomboid.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:00:23.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmRhomboid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmRhomboid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:00:22.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAzwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:57:37.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmRectangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmRectangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:57:35.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmPentagon.cs",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:57:06.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmPentagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs",
+              "RelativeDocumentMoniker": "GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs",
+              "ToolTip": "C:\\Users\\Alexander Guaman\\Desktop\\GRAFICA\\Parcial I\\GUAMAN_JORDAN_FIGURAS\\GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GUAMAN_JORDAN_FIGURAS\\frmPentagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:57:05.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
