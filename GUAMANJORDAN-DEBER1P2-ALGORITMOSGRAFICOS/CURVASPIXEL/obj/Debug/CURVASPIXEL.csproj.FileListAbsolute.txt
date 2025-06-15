@@ -1,0 +1,45 @@
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\bin\Debug\CURVASPIXEL.exe.config
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\bin\Debug\CURVASPIXEL.exe
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\bin\Debug\CURVASPIXEL.pdb
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.AssemblyReference.cache
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmHomeLines.resources
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.Properties.Resources.resources
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.GenerateResource.cache
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.exe
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.pdb
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.exe.config
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmBresenham.resources
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmDDA.resources
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmMiddlePoint.resources
+C:\Users\Jordan Guaman\OneDrive\Documents\Jordan Guaman\Universidad\5to Semestre\Computacion Grafica\Parcial 2\Talleres\CURVASPIXEL\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmPoligons.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.AssemblyReference.cache
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.exe.config
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmBresenham.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmDDA.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmHomeLines.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmMiddlePoint.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmPoligons.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.Properties.Resources.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.GenerateResource.cache
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.exe
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.pdb
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\bin\Debug\CURVASPIXEL.exe.config
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\bin\Debug\CURVASPIXEL.exe
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-ROMBO\CURVASPIXEL\bin\Debug\CURVASPIXEL.pdb
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\bin\Debug\CURVASPIXEL.exe.config
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\bin\Debug\CURVASPIXEL.exe
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\bin\Debug\CURVASPIXEL.pdb
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.AssemblyReference.cache
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.exe.config
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmBresenham.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmDDA.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmHomeLines.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmMiddlePoint.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.frmPoligons.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.Properties.Resources.resources
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.GenerateResource.cache
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.exe
+C:\Users\Jordan Guaman\OneDrive\Desktop\Deber_Lineas&Relleno\CURVASPIXEL-PREDETERMINADOROMBO\CURVASPIXEL\obj\Debug\CURVASPIXEL.pdb
